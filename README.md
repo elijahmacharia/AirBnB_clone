@@ -62,6 +62,6 @@ python3 (3.4.3)
 
 ## Authors 🖋️
 
-Ian Collins        ~`github @icollinss`
+Yvonne Wanjiru        ~`github @yvonneWaKamau`
 
-Shalom Muraguri      ~`github @shalomtash`
+Elijah Macharia      ~`github @elijahmacharia`
